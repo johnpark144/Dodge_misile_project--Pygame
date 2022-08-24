@@ -1,3 +1,8 @@
+# - Creater : Yeonghwan Park (John Park)
+# - Tools : Python(Pygame)
+# - Explantion :
+# This is the game dodging misiles for 100secs, overtime, the misiles will come down faster and faster
+# - Date of creation : Aug 10th ~ Aug 12th 2022
 
 from itertools import count
 import math

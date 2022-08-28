@@ -5,7 +5,7 @@
 - Explantion :
 This is the game dodging misiles for 100secs, overtime, the misiles will come down faster and faster
 
-- Date of creation : Aug 10th ~ Aug 12th 2022
+- Date of creation : Aug 11th ~ Aug 12th 2022
 - Operation key: [→ : write side] // [← : left side]
 
 
